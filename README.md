@@ -1,5 +1,5 @@
 # Bangkit Capstone Project 2023 Batch 1
-Bangkit Capstone Team ID : C23-PS399
+Bangkit Capstone Team ID : C23-PS399 <br>
 Here is our repository for Bangkit Capstone project. Our team consist of 2 Machine Learning, 2 Mobile Development, and 2 Cloud Computing.
 
 ## Team Members
