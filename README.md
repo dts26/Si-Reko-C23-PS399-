@@ -13,10 +13,6 @@ Here is our repository for Bangkit Capstone project. Our team consist of 2 Machi
 |         Jizrel Ebzan Saputra Ledoh         | A140DSX3042  |  Mobile Development   |        [LinkedIn]() or [GitHub](https://github.com/aloneneverdie)        |
 
 ## Githubs Branches
-Cloud Computing - https://github.com/MuhBilHakki/Capstone-API.git  
-Machine Learning - https://github.com/FaiqFdh/CapstoneML  
-Mobile Development - https://github.com/jerryberlin/ITR  
-
 |    Branch Name     |                                      Branch Link                                         |
 | :----------------: | :--------------------------------------------------------------------------------------: |
 | Mobile Development | [MD Branch](https://github.com/jerryberlin/ITR) |
